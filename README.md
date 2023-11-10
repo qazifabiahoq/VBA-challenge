@@ -1,5 +1,6 @@
 # VBA-challenge
-Important: The Excel file containing the multi-year stock data can be found in the 'master' branch of this repository. The file is named 'Multiple_year_stock_data.xlsm'.
+Note: This project was developed as part of the University of Toronto's Data Analytics Bootcamp program.
+The Excel file containing the multi-year stock data can be found in the 'master' branch of this repository. The file is named 'Multiple_year_stock_data.xlsm'.
 
 
 This VBA script is designed to efficiently analyze and provide valuable insights into multi-year stock data stored in Excel worksheets. It processes data from each worksheet and generates the following key information for each stock:
