@@ -1,5 +1,6 @@
 # VBA-challenge
 Note: This project was developed as part of the University of Toronto's Data Analytics Bootcamp program.
+
 The Excel file containing the multi-year stock data can be found in the 'master' branch of this repository. The file is named 'Multiple_year_stock_data.xlsm'.
 
 
